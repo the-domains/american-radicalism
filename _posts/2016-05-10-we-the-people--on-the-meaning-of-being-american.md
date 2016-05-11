@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'What does it mean to be American? The answer requires going to the root of the question, to the origins of America itself. The project of seeking to articulate, restore, preserve, and defend these origins is American Radicalism. This project is a call to live up to the examples provided by our ancestors, by those who called upon us all to live up to the ideals of the American regime. It is a call to re-found our political community so that it may continue "to form a more perfect Union, establish Justice, insure domestic Tranquility, provide for the common defense, promote the general Welfare, and secure the Blessings of Liberty to ourselves and our Posterity."'
-datePublished: '2016-05-10T14:25:26.958Z'
-dateModified: '2016-05-10T14:25:08.638Z'
+datePublished: '2016-05-11T23:51:55.911Z'
+dateModified: '2016-05-11T23:51:37.665Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-10-we-the-people--on-the-meaning-of-being-american.md
@@ -16,7 +16,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-starred: false
+starred: true
 url: we-the-people--on-the-meaning-of-being-american/index.html
 _type: Article
 
