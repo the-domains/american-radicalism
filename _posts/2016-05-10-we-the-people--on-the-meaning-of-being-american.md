@@ -4,9 +4,9 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: 'What does it mean to be American? The answer requires going to the root of the question, to the origins of America itself. The project of seeking to articulate, restore, preserve, and defend these origins is American Radicalism. This project is a call to live up to the examples provided by our ancestors, by those who called upon us all to live up to the ideals of the American regime. It is a call to re-found our political community so that it may continue "to form a more perfect Union, establish Justice, insure domestic Tranquility, provide for the common defense, promote the general Welfare, and secure the Blessings of Liberty to ourselves and our Posterity."'
-datePublished: '2016-05-12T00:07:08.876Z'
-dateModified: '2016-05-12T00:07:06.290Z'
+description: 'What does it mean to be American? The answer requires going to the root of the question, to the origins of America itself. The project of seeking to articulate, restore, preserve, and defend these origins is American Radicalism. This project is a call to live up to the examples provided by our ancestors, by those who called upon us all to live up to the ideals of the American regime. It is a call to re-found our political community so that it may continue "to form a more perfect Union, establish Justice, insure domestic Tranquility, provide for the common defense, promote the general Welfare, and secure the Blessings of Liberty to ourselves and our Posterity." '
+datePublished: '2016-05-12T00:09:20.661Z'
+dateModified: '2016-05-12T00:09:09.767Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-10-we-the-people--on-the-meaning-of-being-american.md
@@ -23,7 +23,7 @@ _type: Article
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4be8f7ef-2293-4a05-857f-acfb22c82c1c.jpg)
 
-What does it mean to be American? The answer requires going to the root of the question, to the origins of America itself. The project of seeking to articulate, restore, preserve, and defend these origins is American Radicalism. This project is a call to live up to the examples provided by our ancestors, by those who called upon us all to live up to the ideals of the American regime. It is a call to re-found our political community so that it may continue "to form a more perfect Union, establish Justice, insure domestic Tranquility, provide for the common defense, promote the general Welfare, and secure the Blessings of Liberty to ourselves and our Posterity."
+What does it mean to be American? The answer requires going to the root of the question, to the origins of America itself. The project of seeking to articulate, restore, preserve, and defend these origins is American Radicalism. This project is a call to live up to the examples provided by our ancestors, by those who called upon us all to live up to the ideals of the American regime. It is a call to re-found our political community so that it may continue "to form a more perfect Union, establish Justice, insure domestic Tranquility, provide for the common defense, promote the general Welfare, and secure the Blessings of Liberty to ourselves and our Posterity." 
 
 From the beginning, the meaning of being an American was separated from questions of race, ethnicity, religion, or national origin. For all intents and purposes, those who populated the colonies prior to the founding were, like those who remained in Britain, English Protestants. Nevertheless, in declaring their independence from the Crown, these would-be Americans distinguished themselves from their English brethren. They articulated how they too formed a unity independent of albeit related to that unity which comprises the English people.
 
