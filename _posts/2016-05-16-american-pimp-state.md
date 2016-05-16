@@ -5,10 +5,11 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Columnist E. J. Dionne (Washington Post) once said: “conservatives seem to believe that the rich will work harder if we give them more, and the poor will work harder if we give them less.” The inconsistency here is the result of the apparent failure to recognize that, for rich and poor alike, the possibility of earning more is an incentive to work longer, harder, and/or better. This is but a truism of human nature: incentives matter.'
-datePublished: '2016-05-16T00:13:26.946Z'
-dateModified: '2016-05-16T00:12:54.538Z'
+datePublished: '2016-05-16T00:14:33.211Z'
+dateModified: '2016-05-16T00:13:34.548Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-16-american-pimp-state.md
 authors: []
 publisher:
   name: null
@@ -16,7 +17,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-16-american-pimp-state.md
 url: american-pimp-state/index.html
 _type: Article
 
@@ -57,6 +57,4 @@ Like a pimp on the street, when contemporary leftists look at the American peopl
 
 When he was asked in _American Pimp_ to justify the pimp's claim to one hundred percent of the proceeds of his hoes' labor, Bishop Don Magic Juan (perhaps America's most famous pimp), provided what could easily be inscribed upon a monument raised to the mighty Leviathan: "I supply the food; I supply the shelter; I supply the clothing; I supply the medical bills; I take care of everything, all she has to do is supply the money."
 
-That is what the great pimp daddy
-Leviathan offers to us: a world where all we are asked to do is lie back and
-think of America.
+That is what the great pimp daddy Leviathan offers to us: a world where all we are asked to do is lie back and think of America.
