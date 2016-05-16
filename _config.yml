@@ -1,6 +1,6 @@
 name: american-radicalism
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.76461
 typography_spectrum: 0.82019
 title: 'American Radicalism: A Project to Restore the Foundations of American Exceptionalism'
 cta:
@@ -22,8 +22,8 @@ color:
     - '#19628e'
     - '#81479d'
     - '#8691b9'
-  brandStrength: 0.3125
-  lightness: 0.625
-  saturation: 0
-  rhythmicContrast: 0.25
+  brandStrength: 0.0625
+  lightness: 0.875
+  saturation: 0.1875
+  rhythmicContrast: 0.5
 purpose: []
