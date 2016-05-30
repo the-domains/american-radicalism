@@ -5,19 +5,15 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Here’s a thought experiment: walk up to a random person anywhere in the world and offer them $1,000 USD, a ticket to America, and a Greencard. Here’s the catch: the offer is only good for 24 hours, wait any longer and like that … it’s gone! How many take the opportunity and run with it? At one point in recent American history, I think you could safely have said at least ninety-five percent (if not ninety-nine percent) of people would have without hesitation. And today? Who knows? I certainly don’t. But what I do know is that it would be more people than the number who would take the same offer to any other country in the world. To that extent, American remains exceptional, it continues to be seen by those outside of it as the land of opportunity, the place where anyone can make it if only they work hard enough. In fact, it is the opportunity that America presents to the world that is largely (but not entirely) the cause of the persistent problem of illegal immigration and the related problem of birthright tourism. Who doesn’t want to win the lottery of life by being born American?'
-datePublished: '2016-05-11T23:44:30.961Z'
-dateModified: '2016-05-11T23:35:41.660Z'
+datePublished: '2016-05-30T23:52:17.199Z'
+dateModified: '2016-05-30T23:51:53.304Z'
 title: ''
 author:
   - name: ''
     url: ''
 sourcePath: _posts/2016-05-11-winning-the-lottery-of-life-the-question-of-american-citize.md
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+publisher: null
 starred: false
 url: winning-the-lottery-of-life-the-question-of-american-citize/index.html
 _type: Article
