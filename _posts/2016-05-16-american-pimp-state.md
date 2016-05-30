@@ -5,17 +5,13 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Columnist E. J. Dionne (Washington Post) once said: “conservatives seem to believe that the rich will work harder if we give them more, and the poor will work harder if we give them less.” The inconsistency here is the result of the apparent failure to recognize that, for rich and poor alike, the possibility of earning more is an incentive to work longer, harder, and/or better. This is but a truism of human nature: incentives matter.'
-datePublished: '2016-05-16T00:14:33.211Z'
-dateModified: '2016-05-16T00:13:34.548Z'
+datePublished: '2016-05-30T23:52:40.307Z'
+dateModified: '2016-05-30T23:52:27.534Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-16-american-pimp-state.md
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+publisher: null
 starred: false
 url: american-pimp-state/index.html
 _type: Article
