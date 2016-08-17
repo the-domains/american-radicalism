@@ -4,7 +4,7 @@
         <description><![CDATA[American Radicalism: A Project to Restore the Foundations of American Exceptionalism]]></description>
         <link>https://thegrid.ai/american-radicalism/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 17 Aug 2016 14:41:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Aug 2016 14:41:43 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/american-radicalism/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -19,6 +19,13 @@
             <link>https://thegrid.ai/american-radicalism/we-the-people--on-the-meaning-of-being-american/index.html</link>
             <guid isPermaLink="false">91b4111f-d2cb-441c-91d0-25ac0bb06b34</guid>
             <pubDate>Mon, 30 May 2016 23:51:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[rad·i·cal /ˈradək(ə)l/]]></title>
+            <description><![CDATA[<p></p>]]></description>
+            <link>https://thegrid.ai/american-radicalism/d9562f29-2985-42fd-8e4c-3cefbd2ba0b2/index.html</link>
+            <guid isPermaLink="false">d9562f29-2985-42fd-8e4c-3cefbd2ba0b2</guid>
+            <pubDate>Wed, 17 Aug 2016 14:41:40 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Constitutional Floor: Defining American Citizenship]]></title>
@@ -61,13 +68,6 @@
             <link>https://thegrid.ai/american-radicalism/winning-the-lottery-of-life-the-question-of-american-citize/index.html</link>
             <guid isPermaLink="false">4b0a452a-5ae3-498f-ae1d-b62e7c5de075</guid>
             <pubDate>Mon, 30 May 2016 23:52:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[rad·i·cal /ˈradək(ə)l/]]></title>
-            <description><![CDATA[<p></p>]]></description>
-            <link>https://thegrid.ai/american-radicalism/d9562f29-2985-42fd-8e4c-3cefbd2ba0b2/index.html</link>
-            <guid isPermaLink="false">d9562f29-2985-42fd-8e4c-3cefbd2ba0b2</guid>
-            <pubDate>Mon, 30 May 2016 23:50:29 GMT</pubDate>
         </item>
     </channel>
 </rss>
