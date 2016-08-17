@@ -5,14 +5,15 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-31T00:18:08.955Z'
-dateModified: '2016-05-31T00:17:32.020Z'
+datePublished: '2016-08-17T14:41:18.975Z'
+dateModified: '2016-08-17T14:40:40.176Z'
 title: ''
 author: []
-authors: []
-publisher: null
-starred: false
 sourcePath: _posts/2016-05-31-the-constitutional-floor-defining-american-citizenship.md
+authors: []
+publisher: {}
+via: {}
+starred: false
 url: the-constitutional-floor-defining-american-citizenship/index.html
 _type: Article
 
